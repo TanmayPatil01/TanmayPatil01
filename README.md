@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TanmayPatil01
+- 👋 Hi, I’m @TanmayPatil
 - 👀 I’m interested in Software Programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web App 
